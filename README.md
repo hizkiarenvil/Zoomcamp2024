@@ -1,2 +1,2 @@
 # Zoomcamp2024
-tests
+test
